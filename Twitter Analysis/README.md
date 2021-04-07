@@ -12,31 +12,24 @@
 
 - Plotted Number of Characters in tweets.
 
-![count](Pictures/no_char.png)
+![](Pictures/no_char.png)
 
-- Plotted CountPlot of top most Common Words in dataset text.
+- Plotted CountPlot of top most Common Words in dataset text with target variable.
 
-![](Images/spam.png) ![](Images/ham.png) 
+![](Pictures/zero.png) ![](Pictures/one.png)
 
 # Data Cleaning
-- Removing special character and numbers using regular expression
+- Removing special character, html tages, emojies, urls and numbers using regular expression
 - Converting the entire sms into lower case
 - Tokenizing the sms by words
 - Removing the stop words
-- Lemmatizing the words
-- Joining the lemmatized words
-- Building a corpus of messages
+- Building a corpus of tweets
 
 # Model Building and Evaluation
-- Building using Multinomial Naive Bayes : 0.97
-- Building using Decision Tree:  0.95
-- Building using Random Forest: 0.97
+- Building using Embedding and LSTM : 0.97
 
-# Used Model 
-- Random Forest: 0.97
+- Plot of Loss and Accuracy of model
 
-![](Images/rf.png)
+![](Pictures/zero.png) ![](Pictures/one.png)
 
-# Model Prediction 
-
-![](Images/prediction.png)
+# Model Architecture
