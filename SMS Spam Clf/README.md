@@ -6,7 +6,7 @@
 
 # Resources Used
 • Packages: pandas, numpy, sklearn, matplotlib, seaborn, nltk.
-• Dataset by UCI Machine Learing on Kaggle: https://www.kaggle.com/uciml/sms-spam-collection-dataset
+- Dataset by UCI Machine Learing on Kaggle: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 # Exploratory Data Analysis (EDA)
 • Plotted countplot for SMS labels Spam vs. Ham
