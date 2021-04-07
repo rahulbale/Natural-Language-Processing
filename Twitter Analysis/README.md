@@ -26,10 +26,10 @@
 - Building a corpus of tweets
 
 # Model Building and Evaluation
-- Building using Embedding and LSTM : 0.97
+- Building using Embedding and LSTM : 0.8056
 
 - Plot of Loss and Accuracy of model
 
-![](Pictures/zero.png) ![](Pictures/one.png)
+![](Pictures/loss.png) ![](Pictures/acc.png)
 
-# Model Architecture
+
