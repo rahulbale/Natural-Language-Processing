@@ -14,6 +14,7 @@
 ![count](Images/count.png)
 
 - Plotted CountPlot of top most Common Words in dataset text.
+
 ![](Images/spam.png) ![](Images/ham.png) 
 
 # Data Cleaning
