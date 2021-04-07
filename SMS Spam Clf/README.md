@@ -13,7 +13,7 @@
 
 ![count](Images/count.png)
 
-- Plotted CountPlot of top most Common Words in dataset text.
+- Plotted CountPlot of top most Common Words in dataset text with target variable.
 
 ![](Images/spam.png) ![](Images/ham.png) 
 
