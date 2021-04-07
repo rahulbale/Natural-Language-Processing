@@ -33,3 +33,9 @@
 
 # Used Model 
 - Random Forest: 0.97
+
+![](Images/rf.png)
+
+# Model Prediction 
+
+![](Images/prediction.png)
