@@ -10,6 +10,7 @@
 
 # Exploratory Data Analysis (EDA)
 - Plotted countplot for SMS labels Spam vs. Ham
+
 ![count](Images/count.png)
 
 - Plotted CountPlot of top most Common Words in dataset text.
