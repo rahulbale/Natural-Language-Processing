@@ -1,5 +1,5 @@
 # Project Overview
-- Created a Deep Learning model that classifies a tweet into Dister or not Dister based on the textual data using Natural Language Processing.
+- Created a Deep Learning model that classifies a tweet into Disaster or not Disaster based on the textual data using Natural Language Processing.
 
 # Resources Used
 - Packages: pandas, numpy, sklearn, Tensorflow, keras, matplotlib, seaborn, nltk.
