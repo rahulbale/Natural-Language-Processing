@@ -26,6 +26,7 @@
 - Building a corpus of tweets
 
 # Model Building and Evaluation
+- Used GloVe for Transfering Tokenized text to vector formate
 - Building using Embedding and LSTM : 0.8056
 
 - Plot of Loss and Accuracy of model
